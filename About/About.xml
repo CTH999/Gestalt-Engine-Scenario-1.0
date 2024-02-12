@@ -1,14 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Gestalt Engine Scenario</name>
-	<author>The Dynamic Trio, CTH2004</author>
+	<author>The Dynamic Trio, CTH2004, Breadmond</author>
 	<packageId>TdT.GeS</packageId>
 	<url>https://github.com/Dynamic-Trio/Gestalt-Engine-Scenario</url>
-	<modVersion>0.0.0</modVersion>
+	<modVersion>0.0.1</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 	</supportedVersions>
 	<description>To be added before official publishing
+	
+	
+Also, thank you Breadmond, for the idea, and pestering me when I forgot (: If it wasn't for you, this mod would never have been completed! (Also for testing it, and making a proto-type non-mod version)
 
 ~~~Frequently asked questions. The bellow ones are used in almost all the mods, so they are included
 FAQ
@@ -33,6 +36,11 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 			<packageId>hlx.gestaltengine</packageId>
 			<displayName>Gestalt Engine</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>hlx.vanometricgenerator</packageId>
+			<displayName>Vanometric Generator</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3041187151</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>

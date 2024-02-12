@@ -1,0 +1,14 @@
+So, there is [i]one[/i] thing missing from our good friend the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691&searchtext=Gestalt+]Gestalt Engine Mod[/url]. That is: a scenario!
+
+So, a while back, I mentioned "I'm beginning to get into modding, I'll look into it". I then forgot, luckilly the person who inspired it didin't. After a "few" reminders, I started working on it. First they uploaded a prototype scenario, which I used as a basis. I then started editing the scenario, by doing things such as adding background features to let it work better! So, anyways, thank you to [url=https://steamcommunity.com/profiles/76561198366165786]Breadmond[/url], for:
+[list]
+[*]Inspiritation
+[*]Testing
+[*]A prototype
+[*]Pestering me to make sure I didin't forget (honestly, only sure-fire way to remind me)
+[/list]
+
+~~~Frequently asked questions. The bellow ones are used in almost all the mods, so they are included
+FAQ
+Q: CE Compatible?
+A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
