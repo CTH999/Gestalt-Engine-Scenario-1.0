@@ -1,44 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<savedscenario>
-	<meta>
-		<gameVersion>1.4.3901 rev238</gameVersion>
-		<modIds>
-			<li>brrainz.harmony</li>
-			<li>ludeon.rimworld</li>
-			<li>ludeon.rimworld.royalty</li>
-			<li>ludeon.rimworld.ideology</li>
-			<li>ludeon.rimworld.biotech</li>
-			<li>nimrag.scenariosearchbar</li>
-			<li>oskarpotocki.vanillafactionsexpanded.core</li>
-			<li>hlx.gestaltengine</li>
-		</modIds>
-		<modSteamIds>
-			<li>0</li>
-			<li>0</li>
-			<li>1149640</li>
-			<li>1392840</li>
-			<li>1826140</li>
-			<li>0</li>
-			<li>0</li>
-			<li>0</li>
-		</modSteamIds>
-		<modNames>
-			<li>Harmony</li>
-			<li>Core</li>
-			<li>Royalty</li>
-			<li>Ideology</li>
-			<li>Biotech</li>
-			<li>Scenario Searchbars</li>
-			<li>Vanilla Expanded Framework</li>
-			<li>Gestalt Engine</li>
-		</modNames>
-	</meta>
-	<scenario>
-		<name>Gestalt Scenario Prototype 0.3</name>
-		<summary>prototype</summary>
+<Defs>
+	<ScenarioDef>
+		<defName>TdT_GestScen_Prototype</defName>
+		<label>Gestalt Scenario Prototype 0.3</label>
 		<description>prototype of gestalt engine scenario</description>
-		<publishedFileId>3157511590</publishedFileId>
-		<playerFaction>
+		<scenario>
+			<summary>prototype</summary>
+			<playerFaction>
 			<def>PlayerFaction</def>
 			<factionDef>PlayerColony</factionDef>
 		</playerFaction>
@@ -133,6 +101,7 @@
 				<thingDef>VanometricPowerCell</thingDef>
 				<count>4</count>
 			</li>
-		</parts>
-	</scenario>
-</savedscenario>
+			</parts>
+		</scenario>
+	</ScenarioDef>
+</Defs>
