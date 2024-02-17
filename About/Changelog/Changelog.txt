@@ -3,6 +3,8 @@
 Made mod as placeholder
 
 0.0.1
-Added in the scenario someone made as a prototype (minor modifications to make it into a "simple" version instead)
+Added in the scenario someone made as a prototype
 Updated description with credits
 Made mod require Vanometric Generater, to provide a more thematic power source for the scenario!
+Uploaded public, as an extreme alpha
+
