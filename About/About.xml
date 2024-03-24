@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Gestalt Engine Scenario (ALPHA!!!)</name>
-	<author>The Dynamic Trio, CTH2004, Breadmond</author>
-	<packageId>TdT.GeS</packageId>
+	<author>CTH2004, Breadmond</author>
+	<packageId>CHTech.GeS</packageId>
 	<url>https://github.com/Dynamic-Trio/Gestalt-Engine-Scenario</url>
 	<modVersion>0.0.1</modVersion>
 	<supportedVersions>
@@ -27,8 +27,8 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		</li>
 
 		<li>
-			<packageId>tdt.core</packageId>
-			<displayName>The Dynamic Trio Core</displayName>
+			<packageId>chtech.core</packageId>
+			<displayName>CHTechIndustries Core</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</steamWorkshopUrl>
 			<downloadUrl>https://github.com/Dynamic-Trio/TheDynamicTrio-Rimworld-Core</downloadUrl>
 		</li>
@@ -44,8 +44,8 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>tdt.core</li>
-		<li>TdT.devOrder</li>
+		<li>chtech.core</li>
+		<li>chtech.devorder</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
