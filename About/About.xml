@@ -51,6 +51,7 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
 	</loadBefore>
 	<incompatibleWith>
 	</incompatibleWith>

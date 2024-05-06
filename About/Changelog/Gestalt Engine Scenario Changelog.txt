@@ -17,3 +17,4 @@ deleted empty placeholders in 1.4
 
 0.0.4
 Fixed common folder file structure
+added tabula rasa based changelog
