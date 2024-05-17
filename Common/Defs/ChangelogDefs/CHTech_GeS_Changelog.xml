@@ -33,8 +33,8 @@ notes:
 
 <!-- version 0.0.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_GeS_log_20240209</defName>
+		<date>2024/02/09</date>
 		<banner />
 		<contentList>
 			<li>
@@ -45,118 +45,119 @@ notes:
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3157412469</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
  <!-- 0.0.1 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_GeS_log_20240217</defName>
+		<date>2024/02/17</date>
 		<banner />
 		<contentList>
 			<li>
-				<header></header>
-				<text>
-				
-</text>
+				<header>Version 0.0.1</header>
+				<text>Added in the scenario someone made as a prototype
+Updated description with credits
+Made mod require Vanometric Generater, to provide a more thematic power source for the scenario!
+Uploaded public, as an extreme alpha</text>
 			</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3157412469</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- 0.0.2 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_GeS_log_20240324</defName>
+		<date>2024/03/24</date>
 		<banner />
 		<contentList>
 			<li>
-				<header></header>
-				<text>
-				
-</text>
+				<header>Version 0.0.3</header>
+				<text>changed ID
+changed the core mod's ID to it's new ID</text>
 			</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3157412469</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
 <!-- 0.0.3 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_GeS_log_20240412</defName>
+		<date>2024/04/12</date>
 		<banner />
 		<contentList>
 			<li>
-				<header></header>
-				<text>
-				
+				<header>Version 0.0.4</header>
+				<text>made unlisted, so it can be tested by others, but people won't find it
+updated mod to 1.5 (not all the requirents are updated, but they will be soon)
+altered a few ID's (so 1.4 and 1.5 aren't compatible, srry)
+added common folder
+deleted empty placeholders in 1.4
 </text>
 			</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3157412469</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-	
 <!-- 0.0.4 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_GeS_log_20240516</defName>
+		<date>2024/05/16</date>
 		<banner />
 		<contentList>
 			<li>
-				<header></header>
-				<text>
-				
+				<header>Version 0.0.4</header>
+				<text>Fixed common folder file structure
+added tabula rasa based changelog
 </text>
 			</li>
 		</contentList>
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3157412469</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
