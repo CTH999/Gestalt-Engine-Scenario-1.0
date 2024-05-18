@@ -4,5 +4,10 @@
     <xpath>Defs/ThingDef [defName="RM_Mech_Matriarch"]</xpath>
     <value>Matriarch_base</value>
     <attribute>Name</attribute>
+	</Operation>
+	<Operation Class="PatchOperationAttributeSet">
+		<xpath>Defs/PawnKindDef [defName="RM_Mech_Matriarch"]</xpath>
+		<value>MechanitorBase</value>
+		<attribute>ParentName</attribute>
   </Operation>
 </Patch>
