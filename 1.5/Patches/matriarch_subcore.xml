@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?> <!-- made with the assistance of XML Patch Helper -->
 <Patch>
-	<Operation Class="PatchOperationRemove">
-		<xpath>RM_Mech_Matriarch</xpath>
-			<value>
-				<li>Hauling</li>
-			</value>
-	</Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef [defName="RM_Mech_Matriarch"]/race/mechEnabledWorkTypes</xpath>
+    <value>
+      <li>Intellectual</li>
+    </value>
+  </Operation>
 </Patch>
-
-<!-- 	<Operation Class="PatchOperationInsert">
-		<xpath>RM_Mech_Matriarch</xpath>
-			<value>
-				<li></li>
-			</value>
-	</Operation> -->
