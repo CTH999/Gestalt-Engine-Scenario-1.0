@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationRemove">
+		<xpath>RM_Mech_Matriarch</xpath>
+			<value>
+				<li>Hauling</li>
+			</value>
+	</Operation>
+</Patch>
+
+<!-- 	<Operation Class="PatchOperationInsert">
+		<xpath>RM_Mech_Matriarch</xpath>
+			<value>
+				<li></li>
+			</value>
+	</Operation> -->
