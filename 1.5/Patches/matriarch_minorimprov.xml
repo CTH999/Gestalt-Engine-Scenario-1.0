@@ -32,8 +32,6 @@
 		<attribute>Name</attribute>
 	</Operation>
 
-<!-- go through -->
-
 <!-- weapons -->
 	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/PawnKindDef [defName="RM_Mech_Matriarch"]</xpath>
@@ -62,4 +60,6 @@
 			</abilities>
 		</value>
 	</Operation>
+	
+<!-- remember to add a weak-ish sheild sometime -->
 </Patch>
