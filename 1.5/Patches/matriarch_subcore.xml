@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?> <!-- made with the assistance of XML Patch Helper -->
-<Patch>
-	<Operation Class="PatchOperationAttributeSet">
-		<xpath>Defs/ThingDef [defName="RM_Mech_Matriarch"]</xpath>
-		<value>Matriarch_base</value>
-		<attribute>Name</attribute>
-	</Operation>
-</Patch>
