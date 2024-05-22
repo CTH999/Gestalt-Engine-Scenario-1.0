@@ -33,6 +33,7 @@
 	</Operation>
 
 <!-- weapons -->
+<!-- to be added
 	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/PawnKindDef [defName="RM_Mech_Matriarch"]</xpath>
 		<value>
@@ -46,8 +47,10 @@
 			</weaponTags>
 		</value>
 	</Operation>
+-->
+
 <!-- abilities -->
-	<Operation Class="PatchOperationAdd">
+<!-- to be added	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/PawnKindDef [defName="RM_Mech_Matriarch"]</xpath>
 		<value>
 			<abilities>
@@ -60,6 +63,7 @@
 			</abilities>
 		</value>
 	</Operation>
-	
+-->
+
 <!-- remember to add a weak-ish sheild sometime -->
 </Patch>
