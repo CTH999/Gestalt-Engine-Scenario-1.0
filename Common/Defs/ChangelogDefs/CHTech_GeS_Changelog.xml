@@ -162,4 +162,30 @@ added tabula rasa based changelog
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+<!-- 0.1.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20240518</defName>
+		<date>2024/05/18</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Matriarchs</header>
+				<text>Added in a patch that (should) allow the matriarch mech to craft subcores, I hope. Maybe. Possibly. Perhaps.
+
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3157412469</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
