@@ -4,20 +4,20 @@
 	<author>CTH2004, Breadmond</author>
 	<packageId>CHTech.GeS</packageId>
 	<url>https://github.com/Dynamic-Trio/Gestalt-Engine-Scenario</url>
-	<modVersion>0.0.4</modVersion>
+	<modVersion>0.1.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li> 
 		<li>1.5</li>
 	</supportedVersions>
-	<description>To be added before official publishing
-	
+	<description>A mod to add in a scenario to the Gestalt Engine mod by Helixien.
+At first, it started as what was supposed to be an "easy" mod. Now, well...	
 	
 Also, thank you Breadmond, for the idea, and pestering me when I forgot (: If it wasn't for you, this mod would never have been completed! (Also for testing it, and making a proto-type non-mod version)
 
 ~~~Frequently asked questions. The bellow ones are used in almost all the mods, so they are included
 FAQ
 Q: CE Compatible?
-A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
+A: Uh... sure. I have heard that Gestalt Engine is compatible with CE, but this mod also has similarities with a mod that is not compatible. So, who knows! It probally won't crash (and if it does we'll try to fix that), so in that sense of "compatible", yes. However, there might be other, "unintented features" that we can't guarentee to fix, but you do you and all!
 
 </description>
 
