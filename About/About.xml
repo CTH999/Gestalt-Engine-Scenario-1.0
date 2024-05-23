@@ -10,7 +10,7 @@
 		<li>1.5</li>
 	</supportedVersions>
 	<description>A mod to add in a scenario to the Gestalt Engine mod by Helixien.
-At first, it started as what was supposed to be an "easy" mod. Now, well...	
+Now, at first, it started as what was supposed to be an "easy" mod. Now, well...	there's a reason it's an Alpha!
 	
 Also, thank you Breadmond, for the idea, and pestering me when I forgot (: If it wasn't for you, this mod would never have been completed! (Also for testing it, and making a proto-type non-mod version)
 
@@ -19,6 +19,7 @@ FAQ
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
 	Do note, I have heard that Gestalt Engine (the main reqrirment) is compatible. 
+</description>
 </description>
 
 	<modDependencies>
