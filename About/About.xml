@@ -17,8 +17,8 @@ Also, thank you Breadmond, for the idea, and pestering me when I forgot (: If it
 ~~~Frequently asked questions. The bellow ones are used in almost all the mods, so they are included
 FAQ
 Q: CE Compatible?
-A: Uh... sure. I have heard that Gestalt Engine is compatible with CE, but this mod also has similarities with a mod that is not compatible. So, who knows! It probally won't crash (and if it does we'll try to fix that), so in that sense of "compatible", yes. However, there might be other, "unintented features" that we can't guarentee to fix, but you do you and all!
-
+A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
+	Do note, I have heard that Gestalt Engine (the main reqrirment) is compatible. 
 </description>
 
 	<modDependencies>
