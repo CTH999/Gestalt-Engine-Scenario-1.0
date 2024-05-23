@@ -22,4 +22,7 @@ added tabula rasa based changelog
 0.1.0
 tried to get softcores craftable via mechs (can't right now, have some ideas but it's not happening soon. Untill then, either a trader or semi-random event?)
 patched researching into the gestator
-gave the mech a weak shield and a small weapon (might change mind)
+update description
+update about file
+fix about file
+add progress notes

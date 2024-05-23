@@ -131,7 +131,7 @@ deleted empty placeholders in 1.4
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.0.4</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
@@ -157,22 +157,37 @@ added tabula rasa based changelog
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.0.4</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- 0.1.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_GeS_log_20240518</defName>
-		<date>2024/05/18</date>
+		<defName>CHTech_GeS_log_20240523</defName>
+		<date>2024/05/23</date>
 		<banner />
 		<contentList>
 			<li>
 				<header>Matriarchs</header>
-				<text>Added in a patch that (should) allow the matriarch mech to craft subcores, I hope. Maybe. Possibly. Perhaps.
-
+				<text>Added in a patch that (should) allow the matriarch mech to research. I hope. Maybe. Possibly. Perhaps.
 </text>
+			</li>
+			<li>
+				<header>Steam Description/ Changelog</header>
+				<text>update steam description
+add progress list
+use new github link method
+</text>
+			</li>
+			<li>
+				<header>Progress</header>
+				<text>Holography: 0%
+Gestalt Engine Avatar: 0%
+Subcore Production: 8%
+Research: 39%
+Scenarios: 3%
+				</text>
 			</li>
 		</contentList>
 		<links>
@@ -183,7 +198,7 @@ added tabula rasa based changelog
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/0.1.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>

@@ -7,7 +7,5 @@
 	<exclude>SECURITY.md</exclude>
 	<exclude>Textures\.baseIcons</exclude>
 	<exclude>.branchLog</exclude>
-	<exclude>About\Incomplete</exclude>
-	<exclude>Personal Links</exclude>
   </Excluded>
 </Configuration>
