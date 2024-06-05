@@ -13,8 +13,8 @@
 Now, at first, it started as what was supposed to be an "easy" mod. Now, well...	there's a reason it's an Alpha!
 	
 	So, anyways, due to how much of a project this mod is, I couldn't have done it without help, so, 
-
 Firstly, thank you Breadmond, for the idea, and pestering me when I forgot (: If it wasn't for you, this mod would never have been completed! (Also for testing it, and making a proto-type non-mod version)
+
 	Without the idea, this wouldn't exist. Without the prototype, I would have had no idea where to even begin. Without the pestering, I would have stopped half way through
 
 Next up, thank you to Nirahiel, without whom I couldn't have even begun to do the necessary C# code, nor realize that this mod would reqrire code! He described a good algorithim for the system, and the holography is based on his idea!
@@ -33,6 +33,7 @@ Progress:
 	Subcore Production: 8%
 	Research: 39%
 	Scenarios: 3%
+	Caravans: 12%
 </description>
 
 	<modDependencies>
@@ -57,6 +58,13 @@ Progress:
 			<displayName>Vanometric Generator</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3041187151</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>tongonto.mechcaravans</packageId>
+			<displayName>Mechanoid Caravans</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3253006390</steamWorkshopUrl>
+		</li>
+		
+		
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.core</li>
