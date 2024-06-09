@@ -69,12 +69,17 @@ Progress:
 	<loadAfter>
 		<li>chtech.core</li>
 		<li>chtech.devorder</li>
+		<li>sarg.alphamechs</li>
+		<li>oskarpotocki.vfe.mechanoid</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
 		<li>co.uk.epicguru.whatsthatmod</li>
+		<li>chtech.rimworldextended.main</li>
 	</loadBefore>
 	<incompatibleWith>
+		<li>witek.mechscanhaultocharger</li>
+		<li>tongonto.mechindependence</li>
 	</incompatibleWith>
 </ModMetaData>
