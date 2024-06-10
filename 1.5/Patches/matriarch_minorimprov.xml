@@ -9,7 +9,6 @@
 	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/ThingDef [defName="RM_Mech_Matriarch"]/race/mechEnabledWorkTypes</xpath>
 		<value>
-			<li>Research</li>
 		</value>
   </Operation>
 	<Operation Class="PatchOperationReplace">
