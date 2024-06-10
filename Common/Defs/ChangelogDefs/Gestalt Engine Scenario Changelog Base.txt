@@ -26,3 +26,11 @@ update description
 update about file
 fix about file
 add progress notes
+
+0.1.1
+made this reqrire a mod that allows them to caravan. goal is to one day make that involve research, but untill then...
+found how to make it able to do subcores, but the limitations are unknown.
+	It's known that fabricators can do them, and that they can do basic subcores.
+	It's unknown if they can do higher teirs than basic. If you find out, tell me please
+	
+	The ultimate plan: But, the plan is to eventually have only the gestator able to make subcores, and only to basic (maybe the middle (softscanner) one). Holography (future feature) is needed to make the high subcores. So, plan acordingly with your designs, knowing that if you currently can make high subcores, it's not permanent
