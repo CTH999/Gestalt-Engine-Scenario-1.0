@@ -10,3 +10,5 @@ Thanks to:
 8. Ludeon for Rimworld!
 9. RuPaul for Rimpy
 10. Breadmond for a prototype (see folder "prototype". Only applicable if subscribed)
+11. Helxien for Gestalt Engine
+12. Helxien for the image sources

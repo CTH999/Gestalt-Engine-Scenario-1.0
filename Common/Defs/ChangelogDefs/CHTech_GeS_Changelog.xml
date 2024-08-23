@@ -217,13 +217,13 @@ Scenarios: 3%
 			<li>
 				<header>Steam Description/ Changelog</header>
 				<text>update steam description
-add progress list
 use new github link method
 </text>
 			</li>
 			<li>
 				<header>Progress</header>
 				<text>Temporarilly made n/a as this mod is now, for the moment, back to being only for the (future) scenarios. Some other extras to aid in it will come, but not at this moment.
+Start work on icons and begining scenario. Possibly, this might be finished within a week (proceeds to take 5 months)
 				</text>
 			</li>
 		</contentList>
@@ -235,7 +235,7 @@ use new github link method
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v1.0.0</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v0.9.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>

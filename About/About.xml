@@ -4,7 +4,7 @@
 	<author>CTH2004, Breadmond</author>
 	<packageId>CHTech.GeS</packageId>
 	<url>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/wiki</url>
-	<modVersion>1.0.0</modVersion>
+	<modVersion>0.9.0</modVersion>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
@@ -56,8 +56,8 @@ A: Once apon a time, it was. But so many changes occured, and the 1.4 version wa
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3042401691</steamWorkshopUrl>
 		</li>
 		<li>
-			<packageId>chtech.eos</packageId>
-			<displayName>Extricate our Ship</displayName>
+			<packageId>chtech.EmS</packageId>
+			<displayName>Extricate my Ship</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3315444901</steamWorkshopUrl>
 			<downloadUrl>https://github.com/CHTechIndustries/SoS2--ExtricateMyShip</downloadUrl>
 		</li>

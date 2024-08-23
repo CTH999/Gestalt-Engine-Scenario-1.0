@@ -7,5 +7,6 @@
 	<exclude>SECURITY.md</exclude>
 	<exclude>Textures\.baseIcons</exclude>
 	<exclude>.branchLog</exclude>
+	<exclude>About\Preview Source Images\Designing</exclude>
   </Excluded>
 </Configuration>
