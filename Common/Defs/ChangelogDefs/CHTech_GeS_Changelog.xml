@@ -203,4 +203,41 @@ Scenarios: 3%
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+	<!-- 1.0.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_GeS_log_20240823</defName>
+		<date>2024/08/23</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Reqriments</header>
+				<text>Change the source of power, hopefully also will bypass solar flares.
+</text>
+			</li>
+			<li>
+				<header>Steam Description/ Changelog</header>
+				<text>update steam description
+add progress list
+use new github link method
+</text>
+			</li>
+			<li>
+				<header>Progress</header>
+				<text>Temporarilly made n/a as this mod is now, for the moment, back to being only for the (future) scenarios. Some other extras to aid in it will come, but not at this moment.
+				</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3157412469</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/Gestalt-Engine-Scenario/releases/tag/v1.0.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
