@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<ScenarioDef>
+	<ScenarioDef Abstract="true">
 		<defName>CHTech_GestScen_Prototype</defName>
 		<label>Gestalt Scenario Prototype 0.3</label>
 		<description>prototype of gestalt engine scenario</description>
