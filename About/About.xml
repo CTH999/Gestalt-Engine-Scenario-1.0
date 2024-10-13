@@ -66,6 +66,11 @@ A: Once apon a time, it was. But so many changes occured, and the 1.4 version wa
 			<displayName>Mechanoid Caravans</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3253006390</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>ratys.rtsolarflareshield</packageId>
+			<displayName>RT Power Switch</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=728315620</steamWorkshopUrl>
+		</li>
 		
 		
 	</modDependencies>
